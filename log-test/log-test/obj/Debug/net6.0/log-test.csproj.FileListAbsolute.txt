@@ -1,0 +1,15 @@
+/home/pstrick/src/dotnet-test/log-test/log-test/bin/Debug/net6.0/log-test
+/home/pstrick/src/dotnet-test/log-test/log-test/bin/Debug/net6.0/log-test.deps.json
+/home/pstrick/src/dotnet-test/log-test/log-test/bin/Debug/net6.0/log-test.runtimeconfig.json
+/home/pstrick/src/dotnet-test/log-test/log-test/bin/Debug/net6.0/log-test.dll
+/home/pstrick/src/dotnet-test/log-test/log-test/bin/Debug/net6.0/ref/log-test.dll
+/home/pstrick/src/dotnet-test/log-test/log-test/bin/Debug/net6.0/log-test.pdb
+/home/pstrick/src/dotnet-test/log-test/log-test/obj/Debug/net6.0/log-test.csproj.AssemblyReference.cache
+/home/pstrick/src/dotnet-test/log-test/log-test/obj/Debug/net6.0/log-test.GeneratedMSBuildEditorConfig.editorconfig
+/home/pstrick/src/dotnet-test/log-test/log-test/obj/Debug/net6.0/log-test.AssemblyInfoInputs.cache
+/home/pstrick/src/dotnet-test/log-test/log-test/obj/Debug/net6.0/log-test.AssemblyInfo.cs
+/home/pstrick/src/dotnet-test/log-test/log-test/obj/Debug/net6.0/log-test.csproj.CoreCompileInputs.cache
+/home/pstrick/src/dotnet-test/log-test/log-test/obj/Debug/net6.0/log-test.dll
+/home/pstrick/src/dotnet-test/log-test/log-test/obj/Debug/net6.0/ref/log-test.dll
+/home/pstrick/src/dotnet-test/log-test/log-test/obj/Debug/net6.0/log-test.pdb
+/home/pstrick/src/dotnet-test/log-test/log-test/obj/Debug/net6.0/log-test.genruntimeconfig.cache
