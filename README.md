@@ -1,0 +1,1 @@
+Sample .NET application to log to standard out every 10 seconds.
